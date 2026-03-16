@@ -13,6 +13,7 @@ The main objectives of this project are:
 * Explain model predictions using **Grad-CAM heatmaps**
 ---
 ## 3. Dataset
+link : https://www.kaggle.com/datasets/apollo2506/eurosat-dataset
 The project uses the **EuroSAT dataset**.
 The dataset contains **10 land use classes**:
 * AnnualCrop
